@@ -1,2 +1,2 @@
 # Image-Classifier-With-KERAS
-cat/dog
+image classification using Keras library 
